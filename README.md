@@ -1,3 +1,5 @@
+## 🌐 Jonli Demo: [Smart Sabo UI Prototype](https://avazbek-1.github.io/SmartSabo-AI/)
+
 # 🌟 Smart Sabo: Inkluziv Muloqot Uchun AI-Tarjimon
 
 <p align="center">
